@@ -1,0 +1,35 @@
+h1{
+    color: white;
+    font-size: 100px;
+}
+
+#containerSongList{
+    background-color: rgb(40, 51, 61);
+    margin-top: 3%;
+    width: 100%;
+    border-radius: 40px;
+    height: 90%;
+    text-align: center;
+}
+
+#addSongButton{
+    font-size: 20px;
+    margin-top: 36%;
+    height: 6%;
+    width: 12%;
+    background-color: rgb(196, 122, 132);
+    border: none;
+}
+
+#addSongButton:hover{
+    background-color: rgb(172, 88, 99);
+}
+
+#table{
+    text-align: left;
+    width: 45%;
+    margin-left: 10%;
+    margin-top: 3%;
+    
+
+}
